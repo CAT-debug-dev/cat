@@ -1,2 +1,3 @@
-# cat
-taskbar
+#taskbar editor
+you customize and decorate the taskbar
+
